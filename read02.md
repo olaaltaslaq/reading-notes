@@ -13,3 +13,16 @@
 
 ![gitimg](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png) 
 
+### Git command examples:
+* git add Usage: git add . [file] 
+* git commit Usage: git commit -m "[ Type in the commit message]"
+* git push Usage: git push [variable name] master
+* git diff Usage: git diff 
+* git reset Usage: git reset [file] 
+* git log Usage: git log 
+* git branch Usage: git branch 
+* git checkout Usage: git checkout [branch name] 
+
+***For more information visit this [link](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)*** 
+
+
