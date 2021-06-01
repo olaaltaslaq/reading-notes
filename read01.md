@@ -18,5 +18,7 @@ _GitHub is a "social coding" site. It allows you to upload code repositories for
 
 [CLICK FOR MORE EXAMPLES](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
 
+HI ... my name is Ola 23 years old i'm a Nutritionist and my computer operating system version number is windows 7 and i'm so excited for this course because i want to learn something very important to me 
 
+click on the [link](https://github.com/olaaltaslaq) to find my GitHub 
 
