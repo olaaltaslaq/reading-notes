@@ -48,3 +48,7 @@ In programming, Semantics refers to the meaning of a piece of code for example i
 *[link](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)* or 
 *[link](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)*
 
+HI ... my name is Ola 23 years old i'm a Nutritionist and my computer operating system version number is windows 7 and i'm so excited for this course because i want to learn something very important to me 
+
+click on the [link](https://github.com/olaaltaslaq) to find my GitHub 
+
