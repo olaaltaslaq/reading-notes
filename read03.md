@@ -4,6 +4,7 @@ The HyperText Markup Language, or HTML is the standard markup language for docum
 
 **An Example:**
 ![html](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png)
+
 The main parts of our element are as follows:
 
 - The opening tag
@@ -12,6 +13,16 @@ The main parts of our element are as follows:
 - The element
 
 ***Click on the [link](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) for more info***
+
+### Semantics in HTML:
+
+In HTML, for example, the <h1> element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+
+<h1>This is a top level heading</h1>
+By default, most browser's user agent stylesheet will style an <h1> with a large font size to make it look like a heading.
+
+***HTML should be coded to represent the data that will be populated and not based on its default presentation styling. Presentation (how it should look), is the sole responsibility of CSS.***
+
 ### What is a wireframes and why do UX designers use them?
 
 Wireframing is a practice used by UX designers which allows them to define and plan the information hierarchy of their design for a website, app, or product. This process focuses on how the designer or client wants the user to process information on a site, based on the user research already performed by the UX design team.

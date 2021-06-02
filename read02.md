@@ -5,14 +5,17 @@
 ![gitimg](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
 
 ### Download Git:
+
 *In order to use Git, your computer must have it available. If you already have Git on your computer, you should make sure you have the latest version.*
 
-Git can be installed in three ways:
+> Git can be installed in three ways:
+
 - Install as a package
 - Install via another installer
 - Download and compile the source code
 
 ## Remote Repositories
+
 *In order to collaborate on Git projects, you must interact with remote repositories, versions of a project residing online or on a network.*
 
 - Cloned Repositories: As mentioned earlier, for cloned repositories, Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local branch.
@@ -23,6 +26,7 @@ To create a new remote Git repository with a short name
 - Pushing: To push your changes “upstream” for sharing
 - Renaming Remotes: To rename a remote’s short name, use the git remote rename command.
 - Removing Remotes: To remove a remote for whatever reason (e.g., a contributor has left the team, the server has moved), simply use the git remote rm command.
+
 
 ### Local Repository Structure
 ***The local Git repository has three components:***
