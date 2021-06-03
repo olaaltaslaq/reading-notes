@@ -26,7 +26,7 @@ Each HTML page must include a reference to the external style sheet file inside 
 ### ***CSS syntax:***
 *CSS is a rule-based language — you define rules specifying groups of styles that should be applied to particular elements or groups of elements on your web page. For example "I want the main heading on my page to be shown as large red text."* 
 
-#### ** Examples**
+#### **Examples**
 
 - Set the text color with a HEX value:
 body {color: #92a8d1;}
