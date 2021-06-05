@@ -22,13 +22,13 @@ Do not confuse JavaScript with the Java programming language. Both "Java" and "J
 ![html](https://www.kirupa.com/html5/images/script_added.png)
 
 ### This is Seven data types that are primitives:
-- Boolean. true and false.
-- null. A special keyword denoting a null value. (Because JavaScript is case-sensitive, null is not the same as Null, NULL, or any other variant.)
-- undefined. A top-level property whose value is not defined.
-- Number. An integer or floating point number. For example: 42 or 3.14159.
-- BigInt. An integer with arbitrary precision. For example: 9007199254740992n.
-- String. A sequence of characters that represent a text value. For example: "Howdy"
-- Symbol (new in ECMAScript 2015). A data type whose instances are unique and immutable.
+- Boolean: true and false.
+- null: A special keyword denoting a null value. (Because JavaScript is case-sensitive, null is not the same as Null, NULL, or any other variant.)
+- undefined: A top-level property whose value is not defined.
+- Number: An integer or floating point number. For example: 42 or 3.14159.
+- BigInt: An integer with arbitrary precision. For example: 9007199254740992n.
+- String: A sequence of characters that represent a text value. For example: "Howdy"
+- Symbol (new in ECMAScript 2015): A data type whose instances are unique and immutable.
 and Object
 
 ### **Input form and output**
@@ -38,11 +38,7 @@ Even in such a simple HTML we wanted to create we had to use + several time and 
 
 **In the back-end systems written in Perl, Python or Ruby, people have encountered the same problem and the solution was the creation of various templating engines. In a similar way, there are many templating system for JavaScript as well.**
 
-**For more info and learn more visit this** *[link](https://code-maven.com/input-output-in-plain-javascript)* or 
-*[link](https://developer.mozilla.org/en-US/docs/Web/JavaScript)*
 
-***An example:***
-![html](https://www.kirupa.com/html5/images/script_added.png)
 
 **For more info and learn more visit this** *[link](https://code-maven.com/input-output-in-plain-javascript)* or 
 *[link](https://developer.mozilla.org/en-US/docs/Web/JavaScript)*
