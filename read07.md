@@ -1,4 +1,7 @@
 # Programming with JavaScript
+
+![html](https://cdn.searchenginejournal.com/wp-content/uploads/2020/02/seo-javascript-the-good-the-bad-the-uncertainty-5e4a09b3cd5db.png)
+
 ### **Control flow**
 *The control flow is the order in which the computer executes statements in a script.*
 
