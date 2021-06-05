@@ -38,7 +38,8 @@
 - do/while - also loops through a block of code while a specified condition is true
 
 > SOME EXAMPLES:
-![html](https://codebrainer.azureedge.net/images/loop-in-js-html-code.png) 
+![html](https://miro.medium.com/max/5232/1*2n5manQ5kUkyTxhLREG9NQ.png) 
+
 
 
 **For more info and learn more visit this** *[link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)* or 
