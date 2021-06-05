@@ -13,7 +13,7 @@ Code is run in order from the first line in the file to the last line, unless th
 ### **Operators**
 *JavaScript has the following types of operators. This section describes the operators and contains information about operator precedence.*
 
-### **List of operators used in JavaScript:**
+### ***List of operators used in JavaScript:***
 
 ![html](https://i.pinimg.com/564x/13/09/cb/1309cb725dea3e859a873607dd298d00.jpg)
 
@@ -28,12 +28,12 @@ JavaScript has the following expression categories:
 - Left-hand-side expressions: Left values are the destination of an assignment.
 
 ### **Functions**
-Functions are one of the fundamental building blocks in JavaScript. A function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output. 
+*Functions are one of the fundamental building blocks in JavaScript. A function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output.*
 
 
 ![html](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/03/JavaScript-function-tutorial.jpg)
 
-### **JavaScript Function Syntax:**
+### ***JavaScript Function Syntax:***
 A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
 
 Function names can contain letters, digits, underscores, and dollar signs (same rules as variables).
