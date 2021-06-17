@@ -83,9 +83,9 @@ Extensible HyperText Markup Language is part of the family of XML markup languag
 
 ***In order to help web page authors move to this new syntax, two main flavors of XHTML 1.0 were created:***
 
-*-Strict XHTML 1.0, where authors had to follow the rules to the letter*
+-Strict XHTML 1.0, where authors had to follow the rules to the letter
 
-*-Transitional XHTML 1.0, where authors could still use presentational elements (such as <center> and <font>).*
+-Transitional XHTML 1.0, where authors could still use presentational elements (such as <center> and <font>).
 
 - HTML5 (Released 2000)
 
@@ -195,7 +195,7 @@ across your key message and helps users find what they are looking for.
 **For more info and learn more visit this *[link](http://www.htmlandcssbook.com/code/)* 
 to download the book online**
 
-# JS
+# JavaScript
 
 ![javas](https://blog.desafiolatam.com/wp-content/uploads/2020/11/JS.png) 
 
