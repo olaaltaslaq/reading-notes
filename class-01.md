@@ -85,7 +85,7 @@ Extensible HyperText Markup Language is part of the family of XML markup languag
 
 -Strict XHTML 1.0, where authors had to follow the rules to the letter
 
--Transitional XHTML 1.0, where authors could still use presentational elements (such as <center> and <font>).
+-Transitional XHTML 1.0, where authors could still use presentational elements (such as < center > and < font >).
 
 - HTML5 (Released 2000)
 
