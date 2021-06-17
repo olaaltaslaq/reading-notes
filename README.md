@@ -1,10 +1,8 @@
- 
 # OLA ALTASLAQ 
 
 ![wel](wel.jpeg)
 
 **Hi.. my name is Ola 23 years old I’m a Nutritionist and my computer operating system version number is windows 10 and I’m interested in learning anything important to me I’m currently learning coding I’m looking to collaborate on future.**
-
 
 - ### 102 Reading Notes:
 
@@ -21,9 +19,7 @@
  
 *CLICK on the [link](https://github.com/olaaltaslaq) to find my GitHub*
 
-
 - ### 201 Reading Notes:
-
 
 | PAGE       |  LINK             | 
 |----------- | ---------         |
@@ -42,9 +38,6 @@
 |read14a     |[link](read214a.md)|
 |read14b     |[link](read214b.md)|
 
-
 *CLICK on the [link](https://github.com/olaaltaslaq) to find my GitHub*
-
-
 
 
