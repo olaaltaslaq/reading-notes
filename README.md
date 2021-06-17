@@ -23,7 +23,7 @@
 
 | PAGE       |  LINK             | 
 |----------- | ---------         |
-|read01      |[link](read201.md) |
+|read01      |[link](class-01.md)|
 |read02      |[link](read202.md) |
 |read03      |[link](read203.md) |
 |read04      |[link](read204.md) |
